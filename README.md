@@ -1,1 +1,1 @@
-# Mean-Reversion
+# Trading Strategies
